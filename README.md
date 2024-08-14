@@ -22,6 +22,9 @@ Implemented detection mechanisms using K-Means clustering and Random Forest clas
 ### Mitigation
 Developed a system to block IP addresses identified as sources of DDoS attacks to stop ongoing attacks.
 
+### Hping Attack
+Performed hping attacks to simulate DDoS scenarios and test the detection and mitigation system.
+
 ## Algorithms Used
 
 - **K-Means Clustering**: Used for unsupervised anomaly detection.
